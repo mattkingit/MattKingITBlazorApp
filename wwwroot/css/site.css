@@ -11,6 +11,16 @@ header {
     background-color: lightskyblue;
 }
 
+.Major{
+    color: firebrick;
+    font-weight: bold;
+}
+
+.Major a{
+    color: firebrick;
+    font-weight: bold;
+}
+
 div image{
     display: flex;
     justify-content: center;
