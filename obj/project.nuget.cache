@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZtkqU4/YIL11tJo7v1AkuT5QIpTaDxUab18wxKJ8W7UFhiPHyN78lywPAHritPjQ+IcDXSiv6SvbRIqVyu79A==",
+  "dgSpecHash": "aj3zOXvNPKYT/93elSCi39Vg7JfhZvgbVcRtI6oKFve3Prg8AX26F2HyIV3pvDAH6e4j1Y3vVlxMllaY7eoO6Q==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Github\\MattKingITBlazorApp\\MKBlazorApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\MatthewKing\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\MKBlazorApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
