@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\MKBlazorApp.csproj",
         "projectName": "MKBlazorApp",
         "projectPath": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\MKBlazorApp.csproj",
-        "packagesPath": "C:\\Users\\matthew.l.king\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\matthew.lincoln.sa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\matthew.l.king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matthew.lincoln.sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
