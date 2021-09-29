@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matthew.lincoln.sa\\.nuget\\packages\\": {},
+    "C:\\Users\\mlkin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\MKBlazorApp.csproj",
+      "projectUniqueName": "C:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\MKBlazorApp.csproj",
       "projectName": "MKBlazorApp",
-      "projectPath": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\MKBlazorApp.csproj",
-      "packagesPath": "C:\\Users\\matthew.lincoln.sa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matthew.l.king\\source\\repos\\MKBlazorApp\\obj\\",
+      "projectPath": "C:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\MKBlazorApp.csproj",
+      "packagesPath": "C:\\Users\\mlkin\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\matthew.lincoln.sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mlkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

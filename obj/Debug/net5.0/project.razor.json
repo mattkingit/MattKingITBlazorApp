@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\MKBlazorApp.csproj",
+  "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\MKBlazorApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -11,366 +11,6 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
-      {
-        "HashCode": 228692990,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Employment",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Employment"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Employment"
-        }
-      },
-      {
-        "HashCode": 60186621,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Employment",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Employment"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Employment",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1481774400,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Resume",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Resume"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Resume"
-        }
-      },
-      {
-        "HashCode": -526403024,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Resume",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Resume"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Resume",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 457138289,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Blog",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blog"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Blog"
-        }
-      },
-      {
-        "HashCode": -41111976,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Blog",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Blog"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Blog",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1394699335,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Education",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Education"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Education"
-        }
-      },
-      {
-        "HashCode": 1035813363,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Education",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Education"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Education",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 664514517,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Index",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -811951087,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Index",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1814129090,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Hobbies",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Hobbies"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Hobbies"
-        }
-      },
-      {
-        "HashCode": 1464534476,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Pages.Hobbies",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Pages.Hobbies"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Pages.Hobbies",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1365076111,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Shared.MainLayout",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Shared.MainLayout"
-        }
-      },
-      {
-        "HashCode": -369574077,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Shared.MainLayout",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Shared.MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1432471155,
-        "Kind": "Components.ChildContent",
-        "Name": "MKBlazorApp.Shared.MainLayout.Body",
-        "AssemblyName": "MKBlazorApp",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "MKBlazorApp.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -1645944013,
-        "Kind": "Components.ChildContent",
-        "Name": "MKBlazorApp.Shared.MainLayout.Body",
-        "AssemblyName": "MKBlazorApp",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MKBlazorApp.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "MKBlazorApp.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -425993288,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Shared.NavMenu",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 2007296084,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.Shared.NavMenu",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1918745633,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.App",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.App"
-        }
-      },
-      {
-        "HashCode": -610740673,
-        "Kind": "Components.Component",
-        "Name": "MKBlazorApp.App",
-        "AssemblyName": "MKBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MKBlazorApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MKBlazorApp.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
       {
         "HashCode": 2085601310,
         "Kind": "Components.Component",
@@ -15979,64 +15619,64 @@
   "RootNamespace": "MKBlazorApp",
   "Documents": [
     {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Employment.razor",
-      "TargetPath": "Pages\\Employment.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Resume.razor",
-      "TargetPath": "Pages\\Resume.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Blog.razor",
-      "TargetPath": "Pages\\Blog.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Education.razor",
-      "TargetPath": "Pages\\Education.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\App.razor",
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Index.razor",
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Hobbies.razor",
+      "TargetPath": "Pages\\Hobbies.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\_Imports.razor",
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Employment.razor",
+      "TargetPath": "Pages\\Employment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Resume.razor",
+      "TargetPath": "Pages\\Resume.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Blog.razor",
+      "TargetPath": "Pages\\Blog.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Education.razor",
+      "TargetPath": "Pages\\Education.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Code\\Github\\MattKingITBlazorApp\\Pages\\Hobbies.razor",
-      "TargetPath": "Pages\\Hobbies.razor",
-      "FileKind": "component"
+      "FilePath": "c:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
