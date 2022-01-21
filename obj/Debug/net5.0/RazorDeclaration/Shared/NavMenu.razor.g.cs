@@ -90,7 +90,7 @@ using MKBlazorApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 48 "C:\Users\matthew.l.king\Source\Repos\mattkingit\MattKingITBlazorApp\Shared\NavMenu.razor"
+#line 55 "C:\Users\matthew.l.king\Source\Repos\mattkingit\MattKingITBlazorApp\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

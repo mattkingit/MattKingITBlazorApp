@@ -12,9 +12,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MKBlazorApp</title>
     <base href="~/" />
+  
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600&family=Poppins:wght@200;300;400;600;800&family=Roboto&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <!-- Argon CSS -->
+    <link href="css/argon-design-system.min.css" rel="stylesheet"/>
+
+    <!-- Site Css -->
     <link href="css/site.css" rel="stylesheet" />
+
+    <!-- Personal Styling -->
+    <link href="css/style.css" rel="stylesheet" />
+
+    <!-- BlazorApp Styles -->
     <link href="MKBlazorApp.styles.css" rel="stylesheet" />
+
 </head>
 <body>
     <component type="typeof(App)" render-mode="ServerPrerendered" />
@@ -30,6 +49,12 @@
         <a class="dismiss">🗙</a>
     </div>
 
+    <script src="js/core/jquery.min.js"></script>
+    <script src="js/core/popper.min.js"></script>
+    <script src="js/core/bootstrap.min.js"></script>
+    <script src="js/argon-design-system.min.js"></script>
+    <script src="js/script.js"></script>
     <script src="_framework/blazor.server.js"></script>
+
 </body>
 </html>
