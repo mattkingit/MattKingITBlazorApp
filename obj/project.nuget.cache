@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vg0qdikviUBsNg2xJLlaIBy2YIt6fufKE4JOp2+2wxRR4eM/v9Xd6LhUukt2I0Oregt5se00HJ/rk37LskiCSQ==",
+  "dgSpecHash": "4mUZBtjtttL3BJoK8eRueTT9mf+Gt+ikrN/d3hmqGuBdlKX2XsGVuLVFGpBSml4/JRUGprPvcY3xE4QWn1em0A==",
   "success": true,
-  "projectFilePath": "C:\\code\\dotnet\\Blazor\\MattKingITBlazorApp\\MKBlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\matthew.l.king\\Source\\Repos\\mattkingit\\MattKingITBlazorApp\\MKBlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
