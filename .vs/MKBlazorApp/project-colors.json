@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8377be96-9b93-4f21-899d-4b6ffa24be15": {
+      "ProjectGuid": "8377be96-9b93-4f21-899d-4b6ffa24be15",
+      "DisplayName": "MKBlazorApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
